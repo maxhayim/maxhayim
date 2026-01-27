@@ -1,1 +1,56 @@
-Coming Soon
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "20 2 * * *"   # daily @ 02:20 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # ===== Output =====
+          filename: github-metrics.svg
+          config_display: large
+          config_padding: 8%
+          config_timezone: America/New_York
+
+          # ===== Theme =====
+          template: classic
+          config_theme: dark
+
+          # ===== Base Panels =====
+          base: header, activity, community, repositories, metadata
+
+          # ===== Languages =====
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_colors: github
+
+          # ===== Activity / Habits =====
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # ===== Calendar =====
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # ===== Extras =====
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_stars: yes
+
