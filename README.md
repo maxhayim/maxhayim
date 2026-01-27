@@ -1,51 +1,111 @@
+<!-- ================================= -->
+<!-- 🛫 FLIGHT DECK INITIALIZATION     -->
+<!-- ================================= -->
 
-<!-- ========================= -->
-<!-- 🛫 COCKPIT INITIALIZATION -->
-<!-- ========================= -->
+<h1 align="center">✈️ FLIGHT MAX-HAYIM</h1>
+<h3 align="center">Mike Alpha X-Ray — Hotel Alpha Yankee India Mike</h3>
 
-<p align="left">
-On my GitHub page, you’ll find a collection of projects that reflect my curiosity, creativity, and commitment to continuous learning. I enjoy turning ideas into real, usable systems—bridging the gap between concept, design, and implementation.<br><br>
-Whether I’m shaping physical components or building the software that drives them, my focus is on practical solutions that are reliable, well-thought-out, and enjoyable to use. From checklist to cruise, I care about systems that stay steady when conditions get turbulent.
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_color=black&right_color=green" />
+</p>
+
+<p align="center">
+  <b>Hotel Echo Lima Lima Oscar.</b> Welcome aboard.
+</p>
+
+<p align="center">
+On my GitHub page, you’ll find a collection of projects that reflect my curiosity, creativity, and commitment to continuous learning.
+I enjoy turning ideas into real, usable systems—bridging the gap between concept, design, and implementation.
+Whether I’m shaping physical components or building the software that drives them,
+my focus is on practical solutions that are reliable, well-thought-out, and enjoyable to use.
 </p>
 
 <hr>
 
-<!-- ========================= -->
-<!-- 📊 FLIGHT TELEMETRY      -->
-<!-- ========================= -->
+<!-- ================================= -->
+<!-- 🐍 FLIGHT PATH / CONTRIBUTIONS   -->
+<!-- ================================= -->
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=maxhayim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    height="150"
-    alt="Flight telemetry"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=maxhayim&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    height="150"
-    alt="Systems usage"
-  />
-</div>
+<h2 align="center">🛰️ Flight Path</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake-deathstar.svg" alt="Flight Path Snake" />
+</p>
 
 <hr>
 
-<!-- ========================= -->
-<!-- 🛠️ RADIO-THEMED PANELS   -->
-<!-- ========================= -->
+<!-- ================================= -->
+<!-- 📊 COCKPIT TELEMETRY             -->
+<!-- ================================= -->
 
-<h2 align="left">🧭 NAV / OPS Console</h2>
+<h2 align="center">📊 Cockpit Telemetry</h2>
 
-<!-- ===== Operating Systems / Platforms ===== -->
-<h3 align="left">🖥️ Operating Systems & Platforms</h3>
-<div align="left">
-  <a href="https://ubuntu.com/" target="_blank" title="Ubuntu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="Ubuntu" />
+<p align="center">
+  <a href="https://github.com/maxhayim/maxhayim">
+    <img src="https://github.com/maxhayim/maxhayim/blob/main/github-metrics.svg" alt="GitHub Metrics" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="Linux" />
+</p>
+
+<hr>
+
+<!-- ================================= -->
+<!-- 🧭 SYSTEMS / INSTRUMENT PANELS   -->
+<!-- ================================= -->
+
+<h2 align="left">🧭 Systems Console</h2>
+
+<h3 align="left">📡 Radio • Mesh • Monitoring</h3>
+<p align="left">
+  <a href="https://github.com/Yeraze/MeshMonitor">
+    <img src="https://img.shields.io/badge/MeshMonitor-Operational-00ff66?logo=github&logoColor=black" />
   </a>
-  <a href="https://www.raspberrypi.com/" target="_blank" title="Raspberry Pi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="Raspberry Pi" />
+  <a href="https://meshtastic.org/">
+    <img src="https://img.shields.io/badge/Meshtastic-Mesh%20Radio-5e2b97?logo=meshtastic&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="left">🖥️ Navigation & Platforms</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+</p>
+
+<h3 align="left">🧰 Control Logic & Scripting</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40"/>
+</p>
+
+<h3 align="left">🧩 Ops • Deployment • Infra</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
+
+<hr>
+
+<!-- ================================= -->
+<!-- 📡 OPEN COMMS                    -->
+<!-- ================================= -->
+
+<h2 align="left">📡 Open Comms</h2>
+
+<p align="left">
+  <a href="mailto:maxhayim@users.noreply.github.com">
+    <img src="https://img.shields.io/badge/Email-GitHub%20Public-00ff66?logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+<p align="left"><b>Status:</b> All systems nominal. Ready for next mission.</p>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="Arduino" />
