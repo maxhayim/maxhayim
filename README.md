@@ -6,10 +6,6 @@
 <h3 align="center">Mike Alpha X-Ray — Hotel Alpha Yankee India Mike</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_color=black&right_color=green" />
-</p>
-
-<p align="center">
   <b>Hotel Echo Lima Lima Oscar.</b> Welcome aboard.
 </p>
 
@@ -189,5 +185,5 @@ my focus is on practical solutions that are reliable, well-thought-out, and enjo
 <p align="left"><b>Status:</b> Systems nominal. Ready for next mission.</p>
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_color=black&right_color=green" />
 </div>
