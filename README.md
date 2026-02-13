@@ -39,24 +39,6 @@
 <h2>Systems Console</h2>
 
 <!-- ========================= -->
-<!-- RADIO / MESH / MONITORING -->
-<!-- ========================= -->
-
-<h3>Radio / Mesh / Monitoring</h3>
-
-<p>
-  <a href="https://github.com/Yeraze/MeshMonitor" aria-label="MeshMonitor">
-    <img height="26" alt="MeshMonitor (GitHub)"
-      src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://meshtastic.org/" aria-label="Meshtastic">
-    <img height="26" alt="Meshtastic"
-      src="https://cdn.simpleicons.org/meshtastic/ffffff" />
-  </a>
-</p>
-
-<!-- ========================= -->
 <!-- PLATFORMS                 -->
 <!-- ========================= -->
 
@@ -153,10 +135,6 @@
     <img height="26" alt="Cloudflare"
       src="https://cdn.simpleicons.org/cloudflare/ffffff" />
   </a>&nbsp;&nbsp;
-
-  <a href="https://code.visualstudio.com/" aria-label="VS Code">
-    <img height="26" alt="VS Code"
-      src="https://cdn.simpleicons.org/visualstudiocode/ffffff" />
   </a>
 </p>
 
