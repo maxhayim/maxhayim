@@ -41,11 +41,6 @@ my focus is on practical solutions that are reliable, well-thought-out, and enjo
 
 <h2 align="center">📊 Cockpit Telemetry</h2>
 
-<p align="center">
-  <a href="https://github.com/maxhayim/maxhayim">
-    <img src="https://github.com/maxhayim/maxhayim/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-  </a>
-</p>
 
 <hr>
 
