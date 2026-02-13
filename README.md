@@ -30,7 +30,7 @@
 
 ### Platforms
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" />](https://github.com/ubuntu/ubuntu)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" />](https://github.com/ubuntu)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />](https://github.com/torvalds/linux)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" />](https://github.com/raspberrypi)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" />](https://github.com/arduino/Arduino)
