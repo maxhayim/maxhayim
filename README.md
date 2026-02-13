@@ -24,9 +24,14 @@ my focus is on practical solutions that are reliable, well-thought-out, and enjo
 
 <h2 align="center">🛰️ Flight Path</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake-deathstar.svg" alt="Flight Path Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake.svg" />
+</picture>
 
 <hr>
 
