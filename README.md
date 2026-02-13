@@ -105,8 +105,6 @@ my focus is on practical solutions that are reliable, well-thought-out, and enjo
     <img src="https://img.shields.io/badge/Email-GitHub%20Public-00ff66?logo=gmail&logoColor=black" />
   </a>
 </p>
-
-<p align="left"><b>Status:</b> All systems nominal. Ready for next mission.</p>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="Arduino" />
@@ -186,6 +184,9 @@ my focus is on practical solutions that are reliable, well-thought-out, and enjo
     <img src="https://img.shields.io/badge/Email-GitHub%20Public-blue?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<hr>
+
 
 <p align="left"><b>Status:</b> Systems nominal. Ready for next mission.</p>
 
