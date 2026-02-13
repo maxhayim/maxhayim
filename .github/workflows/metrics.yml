@@ -30,8 +30,8 @@ jobs:
           template: classic
           config_theme: dark
 
-          # ===== Base Panels =====
-          base: header, activity, community, repositories, metadata
+          # ===== Base Panels (NO big activity drawing) =====
+          base: header, community, repositories, metadata
 
           # ===== Languages =====
           plugin_languages: yes
@@ -45,12 +45,10 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # ===== Calendar =====
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # ===== Calendar (disabled to avoid the drawing) =====
+          plugin_isocalendar: no
 
           # ===== Extras =====
           plugin_lines: yes
           plugin_followup: yes
           plugin_stars: yes
-
