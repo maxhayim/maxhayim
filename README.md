@@ -1,69 +1,187 @@
-## Contribution Graph
+<!-- ===================================================== -->
+<!-- FLIGHT PATH (CONTRIBUTIONS)                           -->
+<!-- ===================================================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake.svg" />
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake.svg" />
-</picture>
-
----
-
-## Repository Metrics
+<h2 align="center">Flight Path</h2>
 
 <p align="center">
-  <img src="https://github.com/maxhayim/maxhayim/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake-dark.svg"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
 
----
+<hr>
 
-## Technology Stack
+<!-- ===================================================== -->
+<!-- TELEMETRY                                             -->
+<!-- ===================================================== -->
 
-### Radio / Mesh / Monitoring
+<h2 align="center">Telemetry</h2>
 
-[![MeshMonitor](https://img.shields.io/badge/MeshMonitor-Operational-2ea44f?logo=github&logoColor=white)](https://github.com/Yeraze/MeshMonitor)
-[![Meshtastic](https://img.shields.io/badge/Meshtastic-Mesh%20Radio-5e2b97?logo=meshtastic&logoColor=white)](https://github.com/meshtastic/firmware)
+<p align="center">
+  <a href="https://github.com/maxhayim/maxhayim" aria-label="GitHub Profile Repo">
+    <img
+      src="https://raw.githubusercontent.com/maxhayim/maxhayim/main/github-metrics.svg"
+      alt="GitHub Metrics"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
+</p>
 
----
+<hr>
 
-### Platforms
+<!-- ===================================================== -->
+<!-- SYSTEMS CONSOLE                                       -->
+<!-- ===================================================== -->
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" />](https://github.com/ubuntu)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />](https://github.com/torvalds/linux)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" />](https://github.com/raspberrypi)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" />](https://github.com/arduino/Arduino)
+<h2>Systems Console</h2>
 
----
+<!-- ========================= -->
+<!-- RADIO / MESH / MONITORING -->
+<!-- ========================= -->
 
-### Languages
+<h3>Radio / Mesh / Monitoring</h3>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />](https://github.com/python/cpython)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" />](https://github.com/bminor/bash)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />](https://github.com/tc39/ecma262)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" />](https://github.com/golang/go)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="32" />](https://github.com/rust-lang/rust)
+<p>
+  <a href="https://github.com/Yeraze/MeshMonitor" aria-label="MeshMonitor">
+    <img height="26" alt="MeshMonitor (GitHub)"
+      src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>&nbsp;&nbsp;
 
----
+  <a href="https://meshtastic.org/" aria-label="Meshtastic">
+    <img height="26" alt="Meshtastic"
+      src="https://cdn.simpleicons.org/meshtastic/ffffff" />
+  </a>
+</p>
 
-### Infrastructure
+<!-- ========================= -->
+<!-- PLATFORMS                 -->
+<!-- ========================= -->
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" />](https://github.com/docker)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="32" />](https://github.com/nginx/nginx)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />](https://github.com/git/git)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" />](https://github.com/github)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="32" />](https://github.com/cloudflare)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" />](https://github.com/microsoft/vscode)
+<h3>Platforms</h3>
 
----
+<p>
+  <a href="https://github.com/" aria-label="GitHub">
+    <img height="26" alt="GitHub"
+      src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>&nbsp;&nbsp;
 
-## Contact
+  <a href="https://ubuntu.com/" aria-label="Ubuntu">
+    <img height="26" alt="Ubuntu"
+      src="https://cdn.simpleicons.org/ubuntu/ffffff" />
+  </a>&nbsp;&nbsp;
 
-[![Email](https://img.shields.io/badge/Email-GitHub%20Public-blue?logo=gmail&logoColor=white)](mailto:maxhayim@users.noreply.github.com)
+  <a href="https://www.kernel.org/" aria-label="Linux">
+    <img height="26" alt="Linux"
+      src="https://cdn.simpleicons.org/linux/ffffff" />
+  </a>&nbsp;&nbsp;
 
----
+  <a href="https://github.com/raspberrypi" aria-label="Raspberry Pi">
+    <img height="26" alt="Raspberry Pi"
+      src="https://cdn.simpleicons.org/raspberrypi/ffffff" />
+  </a>&nbsp;&nbsp;
 
-**Status:** Operational.
+  <a href="https://www.arduino.cc/" aria-label="Arduino">
+    <img height="26" alt="Arduino"
+      src="https://cdn.simpleicons.org/arduino/ffffff" />
+  </a>
+</p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_color=black&right_color=green)
+<!-- ========================= -->
+<!-- LANGUAGES                 -->
+<!-- ========================= -->
+
+<h3>Languages</h3>
+
+<p>
+  <a href="https://github.com/maxhayim?tab=repositories&language=python" aria-label="Python repos">
+    <img height="26" alt="Python"
+      src="https://cdn.simpleicons.org/python/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/maxhayim?tab=repositories&language=shell" aria-label="Shell repos">
+    <img height="26" alt="Bash"
+      src="https://cdn.simpleicons.org/gnubash/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/maxhayim?tab=repositories&language=javascript" aria-label="JavaScript repos">
+    <img height="26" alt="JavaScript"
+      src="https://cdn.simpleicons.org/javascript/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/maxhayim?tab=repositories&language=go" aria-label="Go repos">
+    <img height="26" alt="Go"
+      src="https://cdn.simpleicons.org/go/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/maxhayim?tab=repositories&language=rust" aria-label="Rust repos">
+    <img height="26" alt="Rust"
+      src="https://cdn.simpleicons.org/rust/ffffff" />
+  </a>
+</p>
+
+<!-- ========================= -->
+<!-- INFRA / DEPLOY            -->
+<!-- ========================= -->
+
+<h3>Infra / Deployment</h3>
+
+<p>
+  <a href="https://www.docker.com/" aria-label="Docker">
+    <img height="26" alt="Docker"
+      src="https://cdn.simpleicons.org/docker/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://nginx.org/" aria-label="Nginx">
+    <img height="26" alt="Nginx"
+      src="https://cdn.simpleicons.org/nginx/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" aria-label="Git">
+    <img height="26" alt="Git"
+      src="https://cdn.simpleicons.org/git/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://github.com/maxhayim" aria-label="GitHub profile">
+    <img height="26" alt="GitHub"
+      src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.cloudflare.com/" aria-label="Cloudflare">
+    <img height="26" alt="Cloudflare"
+      src="https://cdn.simpleicons.org/cloudflare/ffffff" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://code.visualstudio.com/" aria-label="VS Code">
+    <img height="26" alt="VS Code"
+      src="https://cdn.simpleicons.org/visualstudiocode/ffffff" />
+  </a>
+</p>
+
+<hr>
+
+<!-- ===================================================== -->
+<!-- OPEN COMMS                                            -->
+<!-- ===================================================== -->
+
+<h2>Open Comms</h2>
+
+<p>
+  <a href="mailto:maxhayim@users.noreply.github.com" aria-label="Email">
+    <img height="26" alt="Email"
+      src="https://cdn.simpleicons.org/gmail/ffffff" />
+  </a>
+</p>
+
+<hr>
+
+<p><b>Status:</b> Systems nominal. Ready for next mission.</p>
+
+<p>
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_color=000000&right_color=00ff66"
+    alt="visitor badge"
+  />
+</p>
