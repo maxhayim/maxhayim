@@ -25,6 +25,7 @@ jobs:
         with:
           github_user_name: maxhayim
           timezone: America/New_York
+          header: false
           outputs: dist/cockpit-telemetry.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
