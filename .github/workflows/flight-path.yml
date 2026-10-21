@@ -45,7 +45,9 @@ jobs:
           github_status: true
           visitor_page_id: maxhayim.maxhayim
           titles: false
-          outputs: dist/open-comms.svg
+          outputs: |
+            dist/open-comms-radio.svg?part=radio
+            dist/open-comms-status.svg?part=status
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
