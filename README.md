@@ -2,7 +2,7 @@
 <!-- FLIGHT PATH (CONTRIBUTIONS)                           -->
 <!-- ===================================================== -->
 
-<h2 align="center">Flight Path</h2>
+<h2 align="center">Flight Path Radar</h2>
 
 <p align="center">
   <a href="https://github.com/maxhayim/flight-path-radar" aria-label="Flight Path Radar">
