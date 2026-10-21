@@ -60,9 +60,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_text=VISITOR%20LOG&left_color=%2303140b&right_color=%231c8443"
-    alt="Visitor log"
-  />
-</p>
+<!-- Hidden 1x1 visitor counter: records each visit for the VISITOR LOG in the panel above -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim" width="1" height="1" alt="" />

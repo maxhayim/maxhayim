@@ -2,7 +2,7 @@ name: Generate Flight Path, Cockpit Telemetry, Systems Console and Open Comms
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour
+    - cron: "*/5 * * * *"   # every 5 minutes (GitHub's fastest), keeps the visitor log fresh
   workflow_dispatch:
   push:
     branches:
