@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: maxhayim
           outputs: |
-            dist/flight-path.svg?plane=b2&theme=cockpit
+            dist/flight-path.svg?plane=b2&theme=cockpit&titles=false
 
       - uses: maxhayim/cockpit-telemetry@v1
         with:
