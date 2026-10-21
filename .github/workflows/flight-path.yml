@@ -1,8 +1,8 @@
-name: Generate Flight Path, Cockpit Telemetry and Systems Console
+name: Generate Flight Path, Cockpit Telemetry, Systems Console and Open Comms
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
   push:
     branches:
@@ -36,6 +36,16 @@ jobs:
             Platforms: github, ubuntu, linux, raspberrypi, arduino
             Infra / Deployment: docker, nginx, git, github, cloudflare
           outputs: dist/systems-console.svg
+
+      - uses: maxhayim/open-comms@v1
+        with:
+          github_user_name: maxhayim
+          email: maxhayim@users.noreply.github.com
+          status: SYSTEMS NOMINAL · READY FOR NEXT MISSION
+          github_status: true
+          visitor_page_id: maxhayim.maxhayim
+          titles: false
+          outputs: dist/open-comms.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

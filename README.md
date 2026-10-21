@@ -50,22 +50,19 @@
 <!-- OPEN COMMS                                            -->
 <!-- ===================================================== -->
 
-<h2>Open Comms</h2>
-
-<p>
-  <a href="mailto:maxhayim@users.noreply.github.com" aria-label="Email">
-    <img height="26" alt="Email"
-      src="https://cdn.simpleicons.org/gmail/ffffff" />
+<p align="center">
+  <a href="mailto:maxhayim@users.noreply.github.com" aria-label="Email maxhayim">
+    <img
+      src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/open-comms.svg"
+      alt="Open Comms: email maxhayim@users.noreply.github.com"
+      style="max-width: 100%; height: auto;"
+    />
   </a>
 </p>
 
-<hr>
-
-<p><b>Status:</b> Systems nominal. Ready for next mission.</p>
-
-<p>
+<p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_color=000000&right_color=00ff66"
-    alt="visitor badge"
+    src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim&left_text=VISITOR%20LOG&left_color=%2303140b&right_color=%231c8443"
+    alt="Visitor log"
   />
 </p>
