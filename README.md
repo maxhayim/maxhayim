@@ -20,13 +20,13 @@
 <!-- TELEMETRY                                             -->
 <!-- ===================================================== -->
 
-<h2 align="center">Telemetry</h2>
+<h2 align="center">Cockpit Telemetry</h2>
 
 <p align="center">
-  <a href="https://github.com/maxhayim/maxhayim" aria-label="GitHub Profile Repo">
+  <a href="https://github.com/maxhayim/cockpit-telemetry" aria-label="Cockpit Telemetry">
     <img
-      src="https://raw.githubusercontent.com/maxhayim/maxhayim/main/github-metrics.svg"
-      alt="GitHub Metrics"
+      src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/cockpit-telemetry.svg"
+      alt="Cockpit Telemetry: GitHub stats as a glass-cockpit dashboard"
       style="max-width: 100%; height: auto;"
     />
   </a>

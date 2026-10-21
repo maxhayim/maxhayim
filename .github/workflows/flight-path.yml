@@ -1,4 +1,4 @@
-name: Generate Flight Path
+name: Generate Flight Path and Cockpit Telemetry
 
 on:
   schedule:
@@ -20,6 +20,12 @@ jobs:
           github_user_name: maxhayim
           outputs: |
             dist/flight-path.svg?plane=b2
+
+      - uses: maxhayim/cockpit-telemetry@v1
+        with:
+          github_user_name: maxhayim
+          timezone: America/New_York
+          outputs: dist/cockpit-telemetry.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
