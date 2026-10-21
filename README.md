@@ -5,11 +5,13 @@
 <h2 align="center">Flight Path</h2>
 
 <p align="center">
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/github-snake-dark.svg"
-    style="max-width: 100%; height: auto;"
-  />
+  <a href="https://github.com/maxhayim/flight-path" aria-label="Flight Path">
+    <img
+      alt="Flight Path: stealth bomber over my contribution grid"
+      src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/flight-path.svg"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
 </p>
 
 <hr>

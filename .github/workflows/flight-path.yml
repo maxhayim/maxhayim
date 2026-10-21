@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate Flight Path
 
 on:
   schedule:
@@ -15,15 +15,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
+      - uses: maxhayim/flight-path@v1
         with:
           github_user_name: maxhayim
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif
+            dist/flight-path.svg?plane=b2
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
