@@ -5,7 +5,7 @@
 <h2 align="center">Flight Path</h2>
 
 <p align="center">
-  <a href="https://github.com/maxhayim/flight-path" aria-label="Flight Path">
+  <a href="https://github.com/maxhayim/flight-path-radar" aria-label="Flight Path Radar">
     <img
       alt="Flight Path: stealth bomber over my contribution grid"
       src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/flight-path.svg"
