@@ -2,8 +2,6 @@
 <!-- FLIGHT PATH (CONTRIBUTIONS)                           -->
 <!-- ===================================================== -->
 
-<h2 align="center">Flight Path Radar</h2>
-
 <p align="center">
   <a href="https://github.com/maxhayim/flight-path-radar" aria-label="Flight Path Radar">
     <img
@@ -20,8 +18,6 @@
 <!-- TELEMETRY                                             -->
 <!-- ===================================================== -->
 
-<h2 align="center">Cockpit Telemetry</h2>
-
 <p align="center">
   <a href="https://github.com/maxhayim/cockpit-telemetry" aria-label="Cockpit Telemetry">
     <img
@@ -37,8 +33,6 @@
 <!-- ===================================================== -->
 <!-- SYSTEMS CONSOLE                                       -->
 <!-- ===================================================== -->
-
-<h2 align="center">Systems Console</h2>
 
 <p align="center">
   <a href="https://github.com/maxhayim/systems-console" aria-label="Systems Console">
