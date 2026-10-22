@@ -59,12 +59,15 @@
     /></a><br>
   <a href="https://github.com/maxhayim/open-comms-profile-console" aria-label="Open Comms Profile Console">
     <img
+      src="https://open-comms-visitor-log.maxhayim.workers.dev/visitor-log.svg"
+      alt="Visitor log, counted live on every view"
+      style="max-width: 100%; height: auto;"
+    /></a><br>
+  <a href="https://github.com/maxhayim/open-comms-profile-console" aria-label="Open Comms Profile Console">
+    <img
       src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/open-comms-status.svg"
-      alt="Open Comms Profile Console: status and visitor log"
+      alt="Open Comms Profile Console: status"
       style="max-width: 100%; height: auto;"
     />
   </a>
 </p>
-
-<!-- Hidden 1x1 visitor counter: records each visit for the VISITOR LOG in the panel above -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=maxhayim.maxhayim" width="1" height="1" alt="" />

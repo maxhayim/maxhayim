@@ -2,7 +2,7 @@ name: Generate Flight Path, Cockpit Telemetry, Systems Console and Open Comms Pr
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (GitHub's fastest), keeps the visitor log fresh
+    - cron: "0 * * * *"   # every hour (the visitor log is live, from the Cloudflare Worker)
   workflow_dispatch:
   push:
     branches:
@@ -43,7 +43,6 @@ jobs:
           email: maxhayim@users.noreply.github.com
           status: SYSTEMS NOMINAL · READY FOR NEXT MISSION
           github_status: true
-          visitor_page_id: maxhayim.maxhayim
           titles: false
           outputs: |
             dist/open-comms-contact.svg?part=comms
