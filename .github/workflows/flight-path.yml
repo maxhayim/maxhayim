@@ -1,4 +1,4 @@
-name: Generate Flight Path, Cockpit Telemetry, Systems Console and Open Comms Radio
+name: Generate Flight Path, Cockpit Telemetry, Systems Console and Open Comms Profile Console
 
 on:
   schedule:
@@ -37,7 +37,7 @@ jobs:
             Infra / Deployment: docker, nginx, git, github, cloudflare
           outputs: dist/systems-console.svg
 
-      - uses: maxhayim/open-comms-radio@v1
+      - uses: maxhayim/open-comms-profile-console@v1
         with:
           github_user_name: maxhayim
           email: maxhayim@users.noreply.github.com
@@ -46,7 +46,7 @@ jobs:
           visitor_page_id: maxhayim.maxhayim
           titles: false
           outputs: |
-            dist/open-comms-radio.svg?part=radio
+            dist/open-comms-contact.svg?part=comms
             dist/open-comms-status.svg?part=status
 
       - uses: crazy-max/ghaction-github-pages@v4

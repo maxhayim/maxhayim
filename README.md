@@ -53,14 +53,14 @@
 <p align="center">
   <a href="mailto:maxhayim@users.noreply.github.com" aria-label="Email maxhayim">
     <img
-      src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/open-comms-radio.svg"
-      alt="Open Comms Radio: email maxhayim@users.noreply.github.com"
+      src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/open-comms-contact.svg"
+      alt="Open Comms Profile Console: email maxhayim@users.noreply.github.com"
       style="max-width: 100%; height: auto;"
     /></a><br>
-  <a href="https://github.com/maxhayim/open-comms-radio" aria-label="Open Comms Radio">
+  <a href="https://github.com/maxhayim/open-comms-profile-console" aria-label="Open Comms Profile Console">
     <img
       src="https://raw.githubusercontent.com/maxhayim/maxhayim/output/open-comms-status.svg"
-      alt="Open Comms Radio: status and visitor log"
+      alt="Open Comms Profile Console: status and visitor log"
       style="max-width: 100%; height: auto;"
     />
   </a>
