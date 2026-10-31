@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<title>Systems Console: maxhayim</title>
+<defs><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="960" height="340" rx="10" fill="#020d07"/>
+
+<rect x="16" y="12" width="928" height="136" rx="6" fill="#03140b" stroke="#14522d"/><path d="M26,12L16,12L16,22M934,12L944,12L944,22M26,148L16,148L16,138M934,148L944,148L944,138" fill="none" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="32" y1="132" x2="928" y2="132" stroke="#2fc062" stroke-width="2"/>
+<line x1="32" y1="132" x2="928" y2="132" stroke="#5dff95" stroke-width="2" stroke-dasharray="3 13"><animate attributeName="stroke-dashoffset" from="16" to="0" dur="1.2s" repeatCount="indefinite"/></line>
+<rect x="28" y="128" width="8" height="8" fill="#03140b" stroke="#5dff95"/>
+<rect x="924" y="128" width="8" height="8" fill="#03140b" stroke="#5dff95"/>
+<rect x="52" y="24" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="118" y="34" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="132" y="53" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">G</text><animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.3s" fill="freeze"/></g>
+<text x="132" y="79" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">GITHUB</text>
+<rect x="60" y="88" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="0.9s" fill="freeze"/></rect>
+<text x="132" y="102" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="0.9s" fill="freeze"/></text>
+<line x1="132" y1="116" x2="132" y2="132" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="132" y1="132" x2="132" y2="116" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="132" cy="132" r="2.5" fill="#5dff95"/>
+<rect x="226" y="24" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="292" y="34" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="306" y="53" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">U</text><animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.3s" fill="freeze"/></g>
+<text x="306" y="79" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">UBUNTU</text>
+<rect x="234" y="88" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="0.97s" fill="freeze"/></rect>
+<text x="306" y="102" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="0.97s" fill="freeze"/></text>
+<line x1="306" y1="116" x2="306" y2="132" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="306" y1="132" x2="306" y2="116" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="306" cy="132" r="2.5" fill="#5dff95"/>
+<rect x="400" y="24" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="466" y="34" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="480" y="53" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">L</text><animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.3s" fill="freeze"/></g>
+<text x="480" y="79" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">LINUX</text>
+<rect x="408" y="88" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.04s" fill="freeze"/></rect>
+<text x="480" y="102" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.04s" fill="freeze"/></text>
+<line x1="480" y1="116" x2="480" y2="132" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="480" y1="132" x2="480" y2="116" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="480" cy="132" r="2.5" fill="#5dff95"/>
+<rect x="574" y="24" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="640" y="34" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="654" y="53" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">R</text><animate attributeName="opacity" from="0" to="1" begin="0.41s" dur="0.3s" fill="freeze"/></g>
+<text x="654" y="79" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">RASPBERRYPI</text>
+<rect x="582" y="88" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.11s" fill="freeze"/></rect>
+<text x="654" y="102" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.11s" fill="freeze"/></text>
+<line x1="654" y1="116" x2="654" y2="132" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="654" y1="132" x2="654" y2="116" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="654" cy="132" r="2.5" fill="#5dff95"/>
+<rect x="748" y="24" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="814" y="34" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="828" y="53" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">A</text><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.3s" fill="freeze"/></g>
+<text x="828" y="79" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">ARDUINO</text>
+<rect x="756" y="88" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.18s" fill="freeze"/></rect>
+<text x="828" y="102" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.18s" fill="freeze"/></text>
+<line x1="828" y1="116" x2="828" y2="132" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="828" y1="132" x2="828" y2="116" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="828" cy="132" r="2.5" fill="#5dff95"/>
+<rect x="16" y="160" width="928" height="136" rx="6" fill="#03140b" stroke="#14522d"/><path d="M26,160L16,160L16,170M934,160L944,160L944,170M26,296L16,296L16,286M934,296L944,296L944,286" fill="none" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="32" y1="280" x2="928" y2="280" stroke="#2fc062" stroke-width="2"/>
+<line x1="32" y1="280" x2="928" y2="280" stroke="#5dff95" stroke-width="2" stroke-dasharray="3 13"><animate attributeName="stroke-dashoffset" from="-16" to="0" dur="1.2s" repeatCount="indefinite"/></line>
+<rect x="28" y="276" width="8" height="8" fill="#03140b" stroke="#5dff95"/>
+<rect x="924" y="276" width="8" height="8" fill="#03140b" stroke="#5dff95"/>
+<rect x="52" y="172" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="118" y="182" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="132" y="201" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">D</text><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.3s" fill="freeze"/></g>
+<text x="132" y="227" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">DOCKER</text>
+<rect x="60" y="236" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.25s" fill="freeze"/></rect>
+<text x="132" y="250" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON · 1 REPO<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.25s" fill="freeze"/></text>
+<line x1="132" y1="264" x2="132" y2="280" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="132" y1="280" x2="132" y2="264" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="132" cy="280" r="2.5" fill="#5dff95"/>
+<rect x="226" y="172" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="292" y="182" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="306" y="201" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">N</text><animate attributeName="opacity" from="0" to="1" begin="0.62s" dur="0.3s" fill="freeze"/></g>
+<text x="306" y="227" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">NGINX</text>
+<rect x="234" y="236" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.32s" fill="freeze"/></rect>
+<text x="306" y="250" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.32s" fill="freeze"/></text>
+<line x1="306" y1="264" x2="306" y2="280" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="306" y1="280" x2="306" y2="264" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="306" cy="280" r="2.5" fill="#5dff95"/>
+<rect x="400" y="172" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="466" y="182" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="480" y="201" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">G</text><animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.3s" fill="freeze"/></g>
+<text x="480" y="227" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">GIT</text>
+<rect x="408" y="236" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.39s" fill="freeze"/></rect>
+<text x="480" y="250" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.39s" fill="freeze"/></text>
+<line x1="480" y1="264" x2="480" y2="280" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="480" y1="280" x2="480" y2="264" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="480" cy="280" r="2.5" fill="#5dff95"/>
+<rect x="574" y="172" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="640" y="182" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="654" y="201" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">G</text><animate attributeName="opacity" from="0" to="1" begin="0.76s" dur="0.3s" fill="freeze"/></g>
+<text x="654" y="227" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">GITHUB</text>
+<rect x="582" y="236" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.46s" fill="freeze"/></rect>
+<text x="654" y="250" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.46s" fill="freeze"/></text>
+<line x1="654" y1="264" x2="654" y2="280" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="654" y1="280" x2="654" y2="264" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="654" cy="280" r="2.5" fill="#5dff95"/>
+<rect x="748" y="172" width="160" height="92" rx="5" fill="#020d07" stroke="#14522d"/>
+<g opacity="0"><rect x="814" y="182" width="28" height="28" rx="4" fill="none" stroke="#5dff95"/><text x="828" y="201" font-size="14" fill="#5dff95" text-anchor="middle" font-weight="700">C</text><animate attributeName="opacity" from="0" to="1" begin="0.83s" dur="0.3s" fill="freeze"/></g>
+<text x="828" y="227" font-size="10" fill="#5dff95" text-anchor="middle" letter-spacing="0.5">CLOUDFLARE</text>
+<rect x="756" y="236" width="144" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95" stroke-opacity="0.8"><animate attributeName="fill" values="#ffb347;#ffb347;#0b3a1f" keyTimes="0;0.85;1" dur="1.53s" fill="freeze"/></rect>
+<text x="828" y="250" font-size="9" fill="#5dff95" text-anchor="middle" font-weight="700">ON<animate attributeName="fill" values="#020d07;#020d07;#5dff95" keyTimes="0;0.85;1" dur="1.53s" fill="freeze"/></text>
+<line x1="828" y1="264" x2="828" y2="280" stroke="#2fc062" stroke-width="1.5"/>
+<line x1="828" y1="280" x2="828" y2="264" stroke="#5dff95" stroke-width="1.5" stroke-dasharray="2 4"><animate attributeName="stroke-dashoffset" from="6" to="0" dur="0.5s" repeatCount="indefinite"/></line>
+<circle cx="828" cy="280" r="2.5" fill="#5dff95"/>
+<rect x="16" y="308" width="90.6" height="20" rx="3" fill="#0b3a1f" stroke="#5dff95"/><text x="61.3" y="322" font-size="10" fill="#5dff95" text-anchor="middle" font-weight="700">SYS NOMINAL<animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/></text>
+<rect x="114.6" y="308" width="64.2" height="20" rx="3" fill="#03140b" stroke="#14522d"/><text x="146.7" y="322" font-size="10" fill="#2fc062" text-anchor="middle">2 BUSES</text>
+<rect x="186.8" y="308" width="84" height="20" rx="3" fill="#03140b" stroke="#14522d"/><text x="228.8" y="322" font-size="10" fill="#2fc062" text-anchor="middle">10 SYSTEMS</text>
+<rect x="278.8" y="308" width="77.4" height="20" rx="3" fill="#03140b" stroke="#14522d"/><text x="317.5" y="322" font-size="10" fill="#2fc062" text-anchor="middle">10 ONLINE</text>
+<rect x="364.2" y="308" width="97.2" height="20" rx="3" fill="#03140b" stroke="#14522d"/><text x="412.8" y="322" font-size="10" fill="#2fc062" text-anchor="middle">LAMP TEST OK</text>
+<rect x="469.4" y="308" width="163.2" height="20" rx="3" fill="#03140b" stroke="#14522d"/><text x="551" y="322" font-size="10" fill="#2fc062" text-anchor="middle">SYNC 2026-10-31 18:08Z</text>
+</svg>
